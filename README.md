@@ -1,5 +1,5 @@
 # Postgres Docker
-This is an unofficial, open-source for MYSQL based projects that run on Docker-Compose. 
+This is an unofficial, open-source for POSTGRES based projects that run on Docker-Compose. 
 
     Postgres 9.3
     
